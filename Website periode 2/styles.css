@@ -1,0 +1,85 @@
+html {
+    background-color: #726b60;
+}
+
+
+img {
+    background: url("Achtergrond.jpg") no-repeat center;
+    background-size: 100%;
+    color: #726b60;
+    background-position: top center;
+}
+.logo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 13%;
+    height: 13%;
+    margin-top:0%;
+    margin-left: 43%;
+}
+span{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    margin-top: 1%;
+    font-size: 1.2em;
+}
+.link {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #fcfbf9;
+    margin-top: 2%;
+    font-family: Karla, Arial, sans-serif;
+
+}
+.Home:hover {
+    color: #83b6cc;
+    text-decoration: none;
+}
+.text1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    margin-top: 2%;
+    font-size: 1.2em;
+}
+.Blauw {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 0%;
+    font-size: 1.5em;
+    color:#83b6cc;
+}
+.text2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    margin-top: 0%;
+    font-size: 1.2em;
+}
+.text3 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    margin-top: 0%;
+    font-size: 1.2em;
+}
+p {
+    font-style: italic;
+}
+a {
+    color:#83b6cc;
+}
+#herrie {
+    color:white;
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
